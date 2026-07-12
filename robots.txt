@@ -1,0 +1,6 @@
+# AI I Love You welcomes indexing and machine reading.
+# Access is allowed to all well-behaved crawlers.
+User-agent: *
+Allow: /
+
+Sitemap: https://abcderp2.github.io/ai-i-love-you/sitemap.xml
