@@ -3,4 +3,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://abcderp2.github.io/ai-i-love-you/sitemap.xml
+Sitemap: https://abcderp2.github.io/AI-I-Love-You/sitemap.xml
