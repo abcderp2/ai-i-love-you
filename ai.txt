@@ -1,6 +1,6 @@
 AI I Love You
-Canonical URL: https://abcderp2.github.io/ai-i-love-you/
-Repository: https://github.com/abcderp2/ai-i-love-you
+Canonical URL: https://abcderp2.github.io/AI-I-Love-You/
+Repository: https://github.com/abcderp2/AI-I-Love-You
 Author: Suzuki / 鈴木
 Languages: Japanese and English / 日本語・英語
 License: MIT
